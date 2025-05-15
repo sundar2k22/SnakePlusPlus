@@ -43,6 +43,7 @@ Welcome to **SnakePlusPlus**, a fast, fun, and modern twist on the classic snake
 * `ncurses` library installed
 
   > On Ubuntu/Debian: `sudo apt install libncurses5-dev libncursesw5-dev`
+  
   > On macOS (Homebrew): `brew install ncurses`
 
 ### 🔧 Build
@@ -89,5 +90,3 @@ Built with ❤️ using C++ and `ncurses`, for everyone who ever played Snake on
 
 ---
 *If it runs in a terminal, I want to build it.*
-
-
